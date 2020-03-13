@@ -1,0 +1,12 @@
+None과 False는 같은가요?
+
+None이 False로 취급되긴 하지만 None과 False는 같지 않습니다.
+None은 아무것도 없다는 뜻이며 False는 거짓을 나타냅니다.
+다음과 같이 is 연산자로 None과 False가 같은지 확인해보면 False가 나오므로
+둘은 서로 다릅니다.
+
+None == False
+False
+
+None is False
+False
